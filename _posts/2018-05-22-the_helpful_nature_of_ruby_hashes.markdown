@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Helpful Nature of Ruby Hashes"
-date:       2018-05-22 16:49:57 +0000
+date:       2018-05-22 12:49:58 -0400
 permalink:  the_helpful_nature_of_ruby_hashes
 ---
 
