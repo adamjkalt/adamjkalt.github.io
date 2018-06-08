@@ -15,7 +15,6 @@ CLI Application can be found here:
 
 [](https://github.com/adamjkalt/Upcoming_Nintendo_Switch_Games_cli_app/tree/master/UpcomingNintendoSwitchGames)
 
-
 As a long time fan of Nintendo, I thought this would be a fun project to work on.  
 
 First, I had to just figure out where I would be scraping the data from, and realized metacritic would provide the information I'd need, in a straight forward manner.  
