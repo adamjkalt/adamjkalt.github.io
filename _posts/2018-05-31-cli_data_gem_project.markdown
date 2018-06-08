@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "CLI Data Gem Project"
-date:       2018-05-31 17:45:51 +0000
+date:       2018-05-31 13:45:52 -0400
 permalink:  cli_data_gem_project
 ---
 
 
-I recently finished up working on a fun CLI Application, looking at Upcoming Games being released for the Nintendo Switch.  
+I recently finished up working on a fun CLI Application, looking at Upcoming Games being released for the Nintendo Switch, which can be found here: 
 
-(Link to be added here shortly)
+https://github.com/adamjkalt/Upcoming_Nintendo_Switch_Games_cli_app/tree/master/UpcomingNintendoSwitchGames
 
 ![](https://www.nintendo.com/switch/etRgxnAu0zRX4bmWnt9K628wG7YQUI6t/images/switch/buy-now/bundle_gray_box.jpg)
 
