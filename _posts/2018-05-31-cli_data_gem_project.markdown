@@ -8,7 +8,7 @@ permalink:  cli_data_gem_project
 
 I recently finished up working on a fun CLI Application, looking at Upcoming Games being released for the Nintendo Switch, which can be found here: 
 
-https://github.com/adamjkalt/Upcoming_Nintendo_Switch_Games_cli_app/tree/master/UpcomingNintendoSwitchGames
+[https://github.com/adamjkalt/Upcoming_Nintendo_Switch_Games_cli_app/tree/master/UpcomingNintendoSwitchGames](http://)
 
 ![](https://www.nintendo.com/switch/etRgxnAu0zRX4bmWnt9K628wG7YQUI6t/images/switch/buy-now/bundle_gray_box.jpg)
 
