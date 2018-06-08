@@ -11,6 +11,7 @@ I recently finished up working on a fun CLI Application, looking at Upcoming Gam
 
 ![](https://www.nintendo.com/switch/etRgxnAu0zRX4bmWnt9K628wG7YQUI6t/images/switch/buy-now/bundle_gray_box.jpg)
 
+
 CLI Application can be found here:
 
 [](https://github.com/adamjkalt/Upcoming_Nintendo_Switch_Games_cli_app/tree/master/UpcomingNintendoSwitchGames)
